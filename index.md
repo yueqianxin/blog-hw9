@@ -6,5 +6,5 @@ Income affects nearly every aspect of a person's living condition, such as the p
 
 Before building any models, I wanted to understand what kinds of patterns existed in the data. After visualizing the data, some relationships are revealed. For instance, figure 1 shows that most of people who have income more than 50k are the people who work more hours per week. It can be observed from the figure that people who earn more than 50k rarely have a low work hours per week. However, the trend is not linear. Most of high income people works around 30 to 40 hours per week, but the extreme work hours tends to reduce the number of people who have high income. 
 ![figure1](figure1.png)
-Figure 1: Working Hours per Week vs. Income
+                                 Figure 1: Working Hours per Week vs. Income
 
