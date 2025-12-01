@@ -1,1 +1,3 @@
-My BLOG
+**Will This Credit Card User Default?**
+
+Predicting financial risk has always been an important task for banks. To address this issue, data science has been greatly applied to this field. Having a realiable estimate of who is likely to default can save banks massive losses, especially at the time of approving a loan or increasing credit limit. For this project, I analyzed a real-world dataset that contains bill statements of credit card clients in Taiwan from April 2005 to September 2005. My goal is fairly simple: building a model that can estimate the probability of a customer defaulting on their next payment.
